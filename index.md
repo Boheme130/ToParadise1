@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## To Paradise 第一部分
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/ToParadise1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://reneelouise21.files.wordpress.com/2014/05/leyendencker-the-club.jpg)
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：To Paradise <br>
+部分：第一部分Washington Square <br>
+作者：Hanya Yanagihara <br>
 
-### Markdown
+关键词：平行宇宙1893年；纽约贵族；不爱的门当户对 v.s. 真爱穷音乐教师 二选一；吃绝户；何为天堂
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+柳原汉雅历时七年再次回归，带来了新的作品To Paradise. 这部作品由三个相互独立部分组成，每个部分之间的关联仅为相同的人物名字。这部作品设定在另一个平行世界的美国，分别是同性婚姻合法的1893年纽约，年轻的贵族长子拒绝家族联婚的老男人，转而追求贫困的音乐教师；1993年的纽约AIDS盛行，一个夏威夷后裔男子和比他年长得多的有钱爱人住在一起，两人都有对方不知情的秘密；2093年的美国陷入了集q/uan社会，一个大科学家的孙女试图调查一个神秘案件。
 
-```markdown
-Syntax highlighted code block
+就像书的标题一样，每一个故事里的主角都在寻找着他们心目中的天堂。柳原汉雅曾经讲述过她这部作品的灵感：天堂这个概念或许从一开始就有缺陷，因为天堂本身就是”keep people out, not allow them in”。在第一部分中，主角David也表示了自己对天堂的理解：他和哥哥在小时候曾经发表过对天堂的不同看法，David认为天堂是蛋糕做的，但哥哥却认为是冰淇淋做的，不喜冷食的David对哥哥的天堂嗤之以鼻，当晚他开始疑惑上帝会如何区分不同人的天堂。
 
-# Header 1
-## Header 2
-### Header 3
+因此，David尽管身处所有人都认为的天堂：他是美国最有权势家族的长子，但他却清楚自己的天堂绝不属于这里。他从小就意识到自己天赋平平，而家族掌门人祖父最为溺爱他，然而祖父的爱是灌输式的，David从未感到自己作为一个独立个体。在他被诊断有不稳定的心理疾病后，整个家族对他的照顾更加多，但背后是近乎施舍式的怜悯。他对于天堂的追求，实际上也是对于他自己作为一个独立个体的追求。门当户对的温柔却无趣老男人Charles和贫困却充满生气的音乐教师Charles是他婚姻的两个选择，Charles象征了他前28年人生被预设的一切：稳定，安全，舒适，但也缺乏独立和活力。因此他最终倒戈Edward，也象征了他对于心目中天堂和独立的向往。
 
-- Bulleted
-- List
+但是如果这部书绝不是一部富家青年爱上穷小伙、最终摆脱家族束缚找回本心的爱情浪漫剧。在小说的后半段，祖父爱孙心切，暗中调查出了Edward的真面目，原来David被联合骗财骗心 (具体看下文的剧情简介)。尽管David知道了Edward的真相，但他拒绝接受，最终仍然和家庭切断了关系，毅然跟着Edward去了加州。在离开前，他要求Edward解释真相，Edward的解释尽管远不如祖父的版本有力，但David仍然还是留在了Edward身边，任由Edward把自己带到西部。他对Edward的感情经过两个不同版本的解释，已经混杂了太多不确定性。尽管他能够轻松获取真相，但他仍然不愿意去寻找真相。同时，此时David如果愿意，还是可以解除婚约留在祖父身边，但他最终仍然选择离开，去寻找属于他的天堂。在这时，他的天堂已经不仅仅是和Edward的爱情，David的天堂夹杂了太多他对于自己身份的渴望形象。在结尾，David ”would make his first step: his first step to a new life; his first step —— to paradise”，尽管他通往的更可能是天堂的反面。
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<br>
+<br>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 剧情：
+1893年的纽约，同性婚姻合法，David是全美国最有权势的家族的长子。他的弟弟已经有了丈夫，妹妹也有了妻子，而现在年满28岁的David也不得不开始考虑结婚的问题，掌管家族的祖父Nathaniel看中了新贵家族的Charles, 一个可靠、温柔、勤勉、有钱但却41岁的老男人。在家族的安排下，David被迫开始和Charles相亲，Charles很快爱上了David，但David却发现自己无法回报他的情感。
 
-### Jekyll Themes
+在两人的交往中，David的更多秘密在他和祖父的谈话和回忆中被揭露。David有心理疾病，他的祖父向Charles隐瞒了David的病史，防止David被退货。另一边，David有一段秘密情感，他一年前开始在家庭慈善学校兼职教授艺术，被作为音乐教师的同事Edward吸引。Edward年仅23，有着一头乌黑的头发，他英俊的面庞、高超的钢琴技巧、充满生气的开朗性格瞬间吸引了David。两人开始暗中交往。David在家族中一直被祖父当做笼中鸟一样爱护，他常感到自己就像牵线木偶一样，但在Edward身上，他第一次感受到了生活的活力。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/ToParadise1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Edward告诉David，他计划前往尚未开发的加州去开纺织厂，已经和他姐姐和一对Aubrey夫妇策划好了，并邀请David一同前往。从小娇生惯养的David一开始想要拒绝，但Edward温柔和充满乐观的说辞最终打动了他，同时Edward也劝诫David这是一次独立的机会，能摆脱纽约在西部荒野开启人生新的篇章。最终David拒绝了Charles的求婚，伤透了Charles的心，原来Charles早就知道了他的病情，但仍然爱着David, 两人不欢而散。当晚，David向Edward求婚。
 
-### Support or Contact
+David接到祖父的紧急信件，他回到家中，祖父拿出了对Edward的调查：原来Edward是一个无恶不作的骗子。他出身一个赌徒家庭，父亲谎称父母死亡，把Edward送到了孤儿院，最终Edward和她姐姐被一户贵族收养。尽管这对贵族尽心给予精神和物质的照顾，仅在小学，Edward就显露出了偷窃欺骗犯罪的倾向。成人后，他离家去读大学，然后用诈骗手段偷走了他养母的巨额基金和珠宝。事情败露后养父母和Edward断绝关系，但这笔大额基金很快被Edward挥霍一空。Edward又勾搭上了一个贵族Christopher并成功让对方求婚，贵族的父母不得不出面摆平，最终Edward收到了一大笔钱作为封口费。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+另一边，Aubrey兄妹也靠诈骗为生，他们通过做小三的手段威胁敲诈贵族。Edward和Aubrey坠入爱河，并决定用骗来的钱去加州投资纺织厂。然而一场自然灾害使两人资金短缺，于是Edward故技重施，决定再次为了和爱人Aubrey去加州而骗财，他找到了填补资金漏洞的最后一位受害者：David. 
+
+David看完调查证据崩溃了，但他执意不肯撤销和Edward的婚姻，仍然死心塌地地爱着Edward. 祖父悲愤交加，不忍看着自己的孙子被吃抹干净，但却无力阻止自己最宠爱的孙子，为了保护David，他在法律上切断了和David的家庭关系，防止David拿到遗产，从而防止Edward从David身上获利带来更多危险。其实祖父一直近乎溺爱地保护着David，他给David安排的Charles婚姻，就是看重了Charles的平和和无趣，他知道David不会爱上Charles，但Charles最不可能会伤害到有精神疾病的David. 
+
+David回到Edward的住所，他哭着让Edward解释那封调查，Edward面不改色，温柔地抱着David解释调查内容都是误解和诽谤。Edward的养母是因为嫉妒Edward的生活才谎称他盗窃，Christopher向他求过婚但Edward当场拒绝了，Aubrey不是他的爱人，调查里说Aubrey两人是兄妹，但实际上他们是夫妻。David精神恍惚，尽管他认识同为贵族的Christopher，只要写封信就能知道真相，但他完全不想知道真相。Edward的解释让David陷入了一种缥缈虚无的状态，他任由Edward为他买了去加州的火车票。在最后的日子里，Edward不断温柔地爱抚David，并不断向他保证去往加州后两人的美好生活。
+
+在临走前一天，David拿走了自己所有的积蓄，装了满满一箱的黄金。他回到家中和祖父做最后的告别，祖父痛苦万分执意挽留，但David仍然决定离开。在出发前，David认为自己之前生活的的确是天堂，但那是属于别人的天堂，现在他要去走自己的路，迈出寻找自己天堂的第一步。
